@@ -37,13 +37,3 @@ Foi observado que o consumo de café não é uniforme ao longo do tempo. Certos 
 ## Conclusão
 A análise das vendas de café na Arábia Saudita forneceu insights valiosos sobre os padrões de consumo e as cidades que mais contribuem para o mercado. Essas informações podem ser utilizadas para tomadas de decisão estratégicas e otimização de vendas.
 
-## Contribuição
-Sinta-se à vontade para contribuir com este projeto! Para isso:
-- Faça um **fork** do repositório
-- Crie uma **branch** para sua funcionalidade (`git checkout -b minha-feature`)
-- Envie um **pull request**
-
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
-
